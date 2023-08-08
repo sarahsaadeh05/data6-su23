@@ -1,5 +1,5 @@
-## Sarah Saadeh 
-# My Personal Website
+# Sarah Saadeh 
+## My Personal Website
 
 Welcome to my personal website! Here you can learn more about me and my interests.
 
