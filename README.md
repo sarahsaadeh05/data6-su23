@@ -5,11 +5,11 @@ Welcome to my personal website! Here you can learn more about me and my interest
 
 ## About Me
 
-I am a passionate individual who loves exploring new technologies and sharing my experiences with the world.
+Hi! My name is Sarah Saadeh and I am an incoming freshman at UC Berkeley studying Civil Engineering. 
 
 ![Profile Photo](Bob-Minion-Transparent-Free-PNG.png)
 
-## Projects
+## Interests 
 
 Check out some of my exciting projects:
 
@@ -23,11 +23,11 @@ Check out some of my exciting projects:
 
 ## Blog
 
-Read about my thoughts and experiences on my [blog](insert_blog_url_here).
+
 
 ## Contact Me
 
-Feel free to reach out to me via [email](mailto:your.email@example.com) or connect with me on [LinkedIn](insert_linkedin_url_here).
+Feel free to reach out to me via [email](sarahsaadeh@berkeley.edu) or connect with me on [LinkedIn](insert_linkedin_url_here).
 
 ---
 
@@ -38,11 +38,11 @@ Thank you for visiting my website! Stay tuned for more updates.
 <style>
   /* Style for different color fonts */
   h1 {
-    color: #0000FF; /* Blue */
+    color:  #000000; /* Black */
   }
 
   h2 {
-    color: #0000FF; /* Blue */
+    color: #0000FF; /* Black */
   }
 
   h3 {
@@ -50,6 +50,6 @@ Thank you for visiting my website! Stay tuned for more updates.
   }
 
   p {
-    color: #9c27b0; /* Purple */
+    color: #0000FF; /* Blue */
   }
 </style>
