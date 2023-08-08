@@ -38,15 +38,15 @@ Thank you for visiting my website! Stay tuned for more updates.
 <style>
   /* Style for different color fonts */
   h1 {
-    color: #FF5733; /* Blue */
+    color: #0000FF; /* Blue */
   }
 
   h2 {
-    color: #4CAF50; /* Blue */
+    color: #0000FF; /* Blue */
   }
 
   h3 {
-    color: #4286f4; /* Black */
+    color: #000000; /* Black */
   }
 
   p {
