@@ -7,7 +7,7 @@ Welcome to my personal website! Here you can learn more about me and my interest
 
 I am a passionate individual who loves exploring new technologies and sharing my experiences with the world.
 
-![Profile Photo](https://static.wikia.nocookie.net/mycun-the-movie/images/c/c9/Bob_%28Despicable_Me%29.png/revision/latest?cb=20230509144510)
+![Profile Photo](Bob-Minion-Transparent-Free-PNG.png)
 
 ## Projects
 
