@@ -42,7 +42,7 @@ Thank you for visiting my website! Stay tuned for more updates.
   }
 
   h2 {
-    color: #0000FF; /* Black */
+     color: #0000FF; /* Blue */
   }
 
   h3 {
@@ -50,6 +50,6 @@ Thank you for visiting my website! Stay tuned for more updates.
   }
 
   p {
-    color: #0000FF; /* Blue */
+     color:  #000000; /* Black */
   }
 </style>
