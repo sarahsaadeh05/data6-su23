@@ -7,7 +7,7 @@ Welcome to my personal website! Here you can learn more about me and my interest
 
 Hi! My name is Sarah Saadeh and I am an incoming freshman at UC Berkeley studying Civil Engineering. 
 
-![Profile Photo](DSC05803.png)
+![Profile Photo](new.png)
 
 ## Interests 
 
