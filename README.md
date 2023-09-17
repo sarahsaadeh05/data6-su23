@@ -5,7 +5,7 @@ Welcome to my personal website! Here you can learn more about me and my interest
 
 ## About Me
 
-Hi! My name is Sarah Saadeh and I am an incoming freshman at UC Berkeley studying Civil Engineering. 
+Hi! My name is Sarah Saadeh and I am a freshman at UC Berkeley studying Civil Engineering with an intended minor in Data Sceince. 
 
 ![Profile Photo](new.png)
 
@@ -13,11 +13,13 @@ Hi! My name is Sarah Saadeh and I am an incoming freshman at UC Berkeley studyin
 
 Check out some of my exciting projects:
 
-1. **Project 1**
-   - Description: This project focuses on building amazing things with technology.
+1. **Civil Engineering Research Assistant**
+   University of Illinois Urbana-Champaign
+   Jun 2022 - Aug 2022 
+Description: Research in plastic-enhanced asphalt binder. Working under Professor Al–Qadi, I analyzed graphs and data from rutting resistance and fatigue cracking tests. I was introduced to technical terminology, Python, and Spyder IDE, and conducted literature reviews on numerous published research papers.
    - ![Project 1 Photo](insert_project1_photo_url_here)
 
-2. **Project 2**
+3. **Project 2**
    - Description: A creative endeavor that brings together art and technology.
    - ![Project 2 Photo](insert_project2_photo_url_here)
 
