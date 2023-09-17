@@ -19,15 +19,17 @@ Check out some of my exciting projects:
    Jun 2022 - Aug 2022 
 
 Description: Research in plastic-enhanced asphalt binder. Working under Professor Al–Qadi, I analyzed graphs and data from rutting resistance and fatigue cracking tests. I was introduced to technical terminology, Python, and Spyder IDE, and conducted literature reviews on numerous published research papers.
+ 
    - ![Project 1 Photo](download.jpg)
 
-2. **California State School of Mathematics and Science (COSMOS) Attendee **
+2. **California State School of Mathematics and Science (COSMOS) Attendee**
 
    UC Irvine
    Jul 2021 - Aug 2021 
 
 Description: Competitive admission. Research in Sustainable Civil Engineering Infrastructure. Group Collaboration with Final Project and Presentation. 4-week intensive program. Lectures on green-roof architecture, seismic design, zero-carbon, & algal biofuels. Self-designed experiment focused on bringing clean drinking water to developing countries using solar disinfection. Recorded and analyzed data from UV light meter & pH strip in Excel.
-    - ![Project 1 Photo](download.png)
+   
+   - ![Project 1 Photo](download.png)
 
 
 ## Contact Me
@@ -36,7 +38,7 @@ Feel free to reach out to me via [email](sarahsaadeh@berkeley.edu) or connect wi
 
 ---
 
-### Footer
+###
 
 Thank you for visiting my website! Stay tuned for more updates.
 
