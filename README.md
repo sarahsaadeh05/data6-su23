@@ -9,22 +9,25 @@ Hi! My name is Sarah Saadeh and I am a freshman at UC Berkeley studying Civil En
 
 ![Profile Photo](new.png)
 
-## Interests 
+## Past Research
 
 Check out some of my exciting projects:
 
 1. **Civil Engineering Research Assistant**
+
    University of Illinois Urbana-Champaign
    Jun 2022 - Aug 2022 
+
 Description: Research in plastic-enhanced asphalt binder. Working under Professor Al–Qadi, I analyzed graphs and data from rutting resistance and fatigue cracking tests. I was introduced to technical terminology, Python, and Spyder IDE, and conducted literature reviews on numerous published research papers.
-   - ![Project 1 Photo](insert_project1_photo_url_here)
+   - ![Project 1 Photo](download.jpg)
 
-3. **Project 2**
-   - Description: A creative endeavor that brings together art and technology.
-   - ![Project 2 Photo](insert_project2_photo_url_here)
+2. **California State School of Mathematics and Science (COSMOS) Attendee **
 
-## Blog
+   UC Irvine
+   Jul 2021 - Aug 2021 
 
+Description: Competitive admission. Research in Sustainable Civil Engineering Infrastructure. Group Collaboration with Final Project and Presentation. 4-week intensive program. Lectures on green-roof architecture, seismic design, zero-carbon, & algal biofuels. Self-designed experiment focused on bringing clean drinking water to developing countries using solar disinfection. Recorded and analyzed data from UV light meter & pH strip in Excel.
+    - ![Project 1 Photo](download.png)
 
 
 ## Contact Me
